@@ -1,20 +1,53 @@
 #Indexbody {
-    background-color: black;
-    color: red;
+    background-size: cover;
+    color: white;
+}
+#Projectbody {
+    background-size: cover;
+    color: white;
+}
+#Techbody {
+    background-size: cover;
+    color: white;
+}
+#p1{
+    text-align: center;
+    font-size: 50px;
+}
+#p2 {
+    text-align: center;
+    font-size: 25px;
+}
+#p3 {
+    text-align: center;
+    font-size: 50px;
+}
+#p4 {
+    text-align: center;
+    font-size: 25px;
+}
+img1 {
+    width: 30px;
+    height: auto;
+}
+img2 {
+    width: 30px;
+    height: auto;
 }
 div {
+    font-size: 20px;
     border-style: solid;
-    border-width: 3px;
-    border-color: white;
+    border-width: 5px;
+    border-color: transparent;
     padding: 30px;
 }
-.container {
+container {
     border-style: solid;
-    border-color: white;
+    border-color: transparent;
     padding: 30px;
 }
-.row {
+row {
     border-style: solid;
-    border-color: white;
+    border-color: transparent;
     padding: 30px;
 }
